@@ -1,0 +1,102 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="Web.Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>
+        <asp:ContentPlaceHolder ID="head" runat="server">
+        Titulo por defecto
+    </asp:ContentPlaceHolder>
+    </title>
+    
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sitio Administración</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+</head>
+<body><form id="form1" runat="server">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Administración de personas&nbsp;</a>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <!-- Ingresar SitemapPath -->
+            <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+            <asp:SiteMapPath ID="SiteMapPath1" runat="server"></asp:SiteMapPath>
+        </div>
+    </nav>
+    
+        <div>
+    <div class="container mt-2">
+        <div class="row">
+            
+            <div class="col-12">
+                <div class="jumbotron">
+                    <h1 class="text-center">Bienvenido a Administrador Sakjara</h1> <!-- reemplazar por titulo de content -->
+                    <div class="row justify-content-center">
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <asp:LoginName ID="LoginName1" runat="server" />
+                <asp:LoginStatus ID="LoginStatus1" runat="server" />
+                <br />
+            </asp:ContentPlaceHolder>
+        </div>
+    
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-12">
+                <!-- Ingresar treeview -->
+            <asp:ContentPlaceHolder ID="ContentTree" runat="server">
+                <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1"></asp:TreeView>
+            </asp:ContentPlaceHolder>
+        <div>
+
+        </div>
+ 
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="container">
+        <div class="row">
+            <!-- Ingresar aquí los elementos placeholder -->
+                           
+        <div>
+            <asp:ContentPlaceHolder ID="Titulo" runat="server">
+               
+            </asp:ContentPlaceHolder>
+        </div>
+
+        </div>
+    </div>
+    <hr>
+    <footer class="text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <p>Copyright ©Isaac Jara. All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap-4.4.1.js"></script>
+    </form>
+</body>
+</html>
+    
+</body>
+</html>

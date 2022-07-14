@@ -1,0 +1,10 @@
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Data\bin\Debug\Data.dll.config
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Data\bin\Debug\Data.dll
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Data\bin\Debug\Data.pdb
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Data\bin\Debug\EntityFramework.dll
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Data\bin\Debug\EntityFramework.xml
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Data\obj\Debug\Data.dll
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Data\obj\Debug\Data.pdb

@@ -1,0 +1,27 @@
+C:\Users\cesar\Desktop\Inacap\2022-1\Programacion Avanzada\EvaluacionSumativa\Datos\bin\Debug\Datos.dll
+C:\Users\cesar\Desktop\Inacap\2022-1\Programacion Avanzada\EvaluacionSumativa\Datos\bin\Debug\Datos.pdb
+C:\Users\cesar\Desktop\Inacap\2022-1\Programacion Avanzada\EvaluacionSumativa\Datos\bin\Debug\Modelo.dll
+C:\Users\cesar\Desktop\Inacap\2022-1\Programacion Avanzada\EvaluacionSumativa\Datos\bin\Debug\Modelo.pdb
+C:\Users\cesar\Desktop\Inacap\2022-1\Programacion Avanzada\EvaluacionSumativa\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\Inacap\2022-1\Programacion Avanzada\EvaluacionSumativa\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\Inacap\2022-1\Programacion Avanzada\EvaluacionSumativa\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\cesar\Desktop\Inacap\2022-1\Programacion Avanzada\EvaluacionSumativa\Datos\obj\Debug\Datos.dll
+C:\Users\cesar\Desktop\Inacap\2022-1\Programacion Avanzada\EvaluacionSumativa\Datos\obj\Debug\Datos.pdb
+C:\Users\MSI-MatiDroid\Desktop\EvaluacionSumativa\Datos\bin\Debug\Datos.dll
+C:\Users\MSI-MatiDroid\Desktop\EvaluacionSumativa\Datos\bin\Debug\Datos.pdb
+C:\Users\MSI-MatiDroid\Desktop\EvaluacionSumativa\Datos\bin\Debug\Modelo.dll
+C:\Users\MSI-MatiDroid\Desktop\EvaluacionSumativa\Datos\bin\Debug\Modelo.pdb
+C:\Users\MSI-MatiDroid\Desktop\EvaluacionSumativa\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\MSI-MatiDroid\Desktop\EvaluacionSumativa\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\MSI-MatiDroid\Desktop\EvaluacionSumativa\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\MSI-MatiDroid\Desktop\EvaluacionSumativa\Datos\obj\Debug\Datos.dll
+C:\Users\MSI-MatiDroid\Desktop\EvaluacionSumativa\Datos\obj\Debug\Datos.pdb
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Datos\bin\Debug\Datos.dll
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Datos\bin\Debug\Datos.pdb
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Datos\bin\Debug\Modelo.dll
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Datos\bin\Debug\Modelo.pdb
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Datos\obj\Debug\Datos.dll
+C:\Users\jara_\OneDrive\Documentos\INACAP\Progra avanzada\EvaluacionSumativa\Datos\obj\Debug\Datos.pdb

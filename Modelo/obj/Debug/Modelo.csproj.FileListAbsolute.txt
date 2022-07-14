@@ -1,0 +1,12 @@
+C:\Users\cesar\Desktop\Inacap\2022-1\Programacion Avanzada\EvaluacionSumativa\Modelo\bin\Debug\Modelo.dll
+C:\Users\cesar\Desktop\Inacap\2022-1\Programacion Avanzada\EvaluacionSumativa\Modelo\bin\Debug\Modelo.pdb
+C:\Users\cesar\Desktop\Inacap\2022-1\Programacion Avanzada\EvaluacionSumativa\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\Inacap\2022-1\Programacion Avanzada\EvaluacionSumativa\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\Inacap\2022-1\Programacion Avanzada\EvaluacionSumativa\Modelo\obj\Debug\Modelo.dll
+C:\Users\cesar\Desktop\Inacap\2022-1\Programacion Avanzada\EvaluacionSumativa\Modelo\obj\Debug\Modelo.pdb
+C:\Users\MSI-MatiDroid\Desktop\EvaluacionSumativa\Modelo\bin\Debug\Modelo.dll
+C:\Users\MSI-MatiDroid\Desktop\EvaluacionSumativa\Modelo\bin\Debug\Modelo.pdb
+C:\Users\MSI-MatiDroid\Desktop\EvaluacionSumativa\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\MSI-MatiDroid\Desktop\EvaluacionSumativa\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\MSI-MatiDroid\Desktop\EvaluacionSumativa\Modelo\obj\Debug\Modelo.dll
+C:\Users\MSI-MatiDroid\Desktop\EvaluacionSumativa\Modelo\obj\Debug\Modelo.pdb

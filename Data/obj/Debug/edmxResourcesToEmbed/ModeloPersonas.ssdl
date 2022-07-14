@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MASTER357VModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="PERSONAS">
+    <Key>
+      <PropertyRef Name="RUT" />
+    </Key>
+    <Property Name="RUT" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="NOMBRE" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="FECHA_NACIMIENTO" Type="datetime" Nullable="false" />
+    <Property Name="SEXO" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="ESTADO" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="PROFESION" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="TELEFONO" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="DIRECCION" Type="nvarchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="MASTER357VModelStoreContainer">
+    <EntitySet Name="PERSONAS" EntityType="Self.PERSONAS" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
